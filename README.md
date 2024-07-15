@@ -1,6 +1,6 @@
 # Literalura
 
-![Logo de mi proyecto](Literalura/img_literalura)
+![captura de la APP](Literalura/img_literalura.png)
 Lenguaje utilizado JAVA 
 se utiliza API de libros "GUTENDEX"
 se deserealiza y se utilizan los datos para guardarlos en Base de datos
